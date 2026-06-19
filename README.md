@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harika-Kovvuri/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Harika-Kovvuri/DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Harika-Kovvuri/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
