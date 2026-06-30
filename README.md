@@ -11,10 +11,12 @@
 | [0002-add-two-numbers](https://github.com/Harika-Kovvuri/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harika-Kovvuri/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harika-Kovvuri/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -61,4 +63,12 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Harika-Kovvuri/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
