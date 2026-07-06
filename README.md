@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2596-check-knight-tour-configuration](https://github.com/Harika-Kovvuri/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
