@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/Harika-Kovvuri/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harika-Kovvuri/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harika-Kovvuri/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2596-check-knight-tour-configuration](https://github.com/Harika-Kovvuri/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
