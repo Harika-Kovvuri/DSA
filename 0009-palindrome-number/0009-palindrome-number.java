@@ -4,12 +4,12 @@ class Solution {
             return false;
         }
         int temp = x;
-        int reverse = 0;
+        int rev = 0;
         while (x > 0) {
-            int lastDigit = x % 10;
-            reverse = (reverse * 10) + lastDigit;
-            x = x / 10;
+            int ld = x % 10;
+            rev = rev * 10 + ld;
+            x /= 10;
         }
-        return reverse == temp;
+        return temp == rev;
     }
 }
