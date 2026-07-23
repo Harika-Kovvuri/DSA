@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0001-two-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harika-Kovvuri/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harika-Kovvuri/DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
