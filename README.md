@@ -46,6 +46,7 @@
 | [0001-two-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harika-Kovvuri/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2404-most-frequent-even-element](https://github.com/Harika-Kovvuri/DSA/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harika-Kovvuri/DSA/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2404-most-frequent-even-element](https://github.com/Harika-Kovvuri/DSA/tree/master/2404-most-frequent-even-element) |
 | [2596-check-knight-tour-configuration](https://github.com/Harika-Kovvuri/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/Harika-Kovvuri/DSA/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
