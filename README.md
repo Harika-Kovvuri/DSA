@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
+| [0697-degree-of-an-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0697-degree-of-an-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Harika-Kovvuri/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2404-most-frequent-even-element](https://github.com/Harika-Kovvuri/DSA/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
@@ -73,6 +74,7 @@
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harika-Kovvuri/DSA/tree/master/0283-move-zeroes) |
+| [0697-degree-of-an-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0697-degree-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Harika-Kovvuri/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2404-most-frequent-even-element](https://github.com/Harika-Kovvuri/DSA/tree/master/2404-most-frequent-even-element) |
