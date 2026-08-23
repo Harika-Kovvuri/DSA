@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/Harika-Kovvuri/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harika-Kovvuri/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Harika-Kovvuri/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Harika-Kovvuri/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harika-Kovvuri/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harika-Kovvuri/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +84,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harika-Kovvuri/DSA/tree/master/0048-rotate-image) |
 | [2596-check-knight-tour-configuration](https://github.com/Harika-Kovvuri/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
