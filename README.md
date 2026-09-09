@@ -85,6 +85,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0697-degree-of-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Harika-Kovvuri/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harika-Kovvuri/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Harika-Kovvuri/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2404-most-frequent-even-element](https://github.com/Harika-Kovvuri/DSA/tree/master/2404-most-frequent-even-element) |
@@ -145,4 +146,5 @@
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Harika-Kovvuri/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harika-Kovvuri/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
