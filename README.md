@@ -81,6 +81,7 @@
 | [0162-find-peak-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harika-Kovvuri/DSA/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harika-Kovvuri/DSA/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Harika-Kovvuri/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -127,6 +129,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harika-Kovvuri/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Harika-Kovvuri/DSA/tree/master/0875-koko-eating-bananas) |
