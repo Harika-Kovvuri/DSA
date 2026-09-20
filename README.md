@@ -87,6 +87,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0697-degree-of-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Harika-Kovvuri/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harika-Kovvuri/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harika-Kovvuri/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harika-Kovvuri/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -152,6 +153,7 @@
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Harika-Kovvuri/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harika-Kovvuri/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harika-Kovvuri/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harika-Kovvuri/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Geometry
