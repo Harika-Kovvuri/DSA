@@ -93,6 +93,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harika-Kovvuri/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harika-Kovvuri/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harika-Kovvuri/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harika-Kovvuri/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Harika-Kovvuri/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harika-Kovvuri/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Harika-Kovvuri/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -130,6 +131,7 @@
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harika-Kovvuri/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
