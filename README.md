@@ -76,6 +76,7 @@
 | [0048-rotate-image](https://github.com/Harika-Kovvuri/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harika-Kovvuri/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harika-Kovvuri/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harika-Kovvuri/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harika-Kovvuri/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 ## Sorting
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harika-Kovvuri/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
