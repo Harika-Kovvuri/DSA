@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/Harika-Kovvuri/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harika-Kovvuri/DSA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
