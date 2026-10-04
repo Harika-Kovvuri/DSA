@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harika-Kovvuri/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0328-odd-even-linked-list) |
 ## Math
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harika-Kovvuri/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
