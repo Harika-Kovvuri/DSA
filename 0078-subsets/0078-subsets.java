@@ -1,16 +1,19 @@
 class Solution {
+    public int getKthBit(int n, int k) {
+        return ((n >> k) & 1);
+    }
+
     public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        int subsets = 1 << n;
         List<List<Integer>> ans = new ArrayList<>();
-        for (int num = 0; num < subsets; num++) {
-            List<Integer> subset = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                if ((num & (1 << i)) != 0) {
-                    subset.add(nums[i]);
+        int n = nums.length;
+        for (int i = 0; i < (1 << n); i++) {
+            List<Integer> sub = new ArrayList<>();
+            for (int j = 0; j < n; j++) {
+                if (getKthBit(i, j) != 0) {
+                    sub.add(nums[j]);
                 }
             }
-            ans.add(subset);
+            ans.add(sub);
         }
         return ans;
     }
