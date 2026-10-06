@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Harika-Kovvuri/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Harika-Kovvuri/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harika-Kovvuri/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0234-palindrome-linked-list) |
@@ -62,6 +63,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Harika-Kovvuri/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Harika-Kovvuri/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harika-Kovvuri/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
@@ -75,6 +77,7 @@
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harika-Kovvuri/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Harika-Kovvuri/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harika-Kovvuri/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0234-palindrome-linked-list) |
@@ -229,4 +232,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harika-Kovvuri/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
