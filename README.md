@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Harika-Kovvuri/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Harika-Kovvuri/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Harika-Kovvuri/DSA/tree/master/0836-rectangle-overlap) |
 ## Recursion
@@ -37,6 +38,7 @@
 | [0206-reverse-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harika-Kovvuri/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Harika-Kovvuri/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Harika-Kovvuri/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -162,6 +164,7 @@
 | [0136-single-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Harika-Kovvuri/DSA/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Harika-Kovvuri/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
