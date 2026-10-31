@@ -109,6 +109,7 @@
 | [0037-sudoku-solver](https://github.com/Harika-Kovvuri/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Harika-Kovvuri/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harika-Kovvuri/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Harika-Kovvuri/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Harika-Kovvuri/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harika-Kovvuri/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harika-Kovvuri/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Harika-Kovvuri/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harika-Kovvuri/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
@@ -217,6 +219,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Harika-Kovvuri/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
