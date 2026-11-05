@@ -126,6 +126,7 @@
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harika-Kovvuri/DSA/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Harika-Kovvuri/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0697-degree-of-an-array](https://github.com/Harika-Kovvuri/DSA/tree/master/0697-degree-of-an-array) |
 | [0875-koko-eating-bananas](https://github.com/Harika-Kovvuri/DSA/tree/master/0875-koko-eating-bananas) |
@@ -156,6 +157,7 @@
 | [0055-jump-game](https://github.com/Harika-Kovvuri/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harika-Kovvuri/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Harika-Kovvuri/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -177,6 +179,7 @@
 | [0075-sort-colors](https://github.com/Harika-Kovvuri/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harika-Kovvuri/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Harika-Kovvuri/DSA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Harika-Kovvuri/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Harika-Kovvuri/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
@@ -221,6 +224,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Harika-Kovvuri/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Harika-Kovvuri/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Harika-Kovvuri/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
